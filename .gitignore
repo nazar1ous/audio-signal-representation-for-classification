@@ -1,7 +1,7 @@
 urbansound8k/
 kaggle.json
-model_weights/
 __pycache__/
 _assets/
+.ipynb_checkpoints/
 
 
